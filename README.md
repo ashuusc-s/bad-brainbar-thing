@@ -1,10 +1,11 @@
-#brainBARThing
+# brainBARThing
+
 cs
-```
-``` csharp
+```csharp
 using Godot;
 using System;
-
+```
+```
 public partial class BrainProto : Control
 {
 	private Double brain = 0;
@@ -92,4 +93,4 @@ public partial class BrainProto : Control
 		EquippedLabel.Text = "Equipped: " + equippedItem;
 	}
 }
-``csharp```
+```
