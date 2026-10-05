@@ -1,6 +1,5 @@
 # brainBARThing
 
-cs
 ```csharp
 using Godot;
 using System;
